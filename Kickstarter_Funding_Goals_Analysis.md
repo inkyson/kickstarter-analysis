@@ -20,6 +20,7 @@ Why do some Kickstarter campaigns succeed and some don't? Louise poses this ques
 
 ### Challenges and Difficulties Encountered
 - The main challenge was working with a large dataset that included information that was irrelevant to the project.  The key was sorting through the data to focus on useful information which included adding additional columns to breakdown existing data and converting certain columns to readable formats.  For example, the dataset contained Unix epoch which is not easily recognizable so converting this the month/date/year format made for more useful data.
+![Unix_epoch_short_date.png](Unix_epoch_short_date.png)
 
 ## 3. Results
 
