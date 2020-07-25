@@ -1,7 +1,7 @@
 # Kickstarter Funding Goals Analysis
 
 ## 1. Overview of Project
-Why do some Kickstarter campaigns succeed and some don't? Louise poses this question after her play _Fever_ came close but did not meet its funding goal. We will examine this by analyzing the outcomes of different campaigns and how they performed in relation to their **launch dates** and their **funding goals** using a dataset of various Kickstarter campaigns.
+Why do some Kickstarter campaigns succeed and some don't? Louise poses this question after her play _Fever_ came close but did not meet its funding goal. We will examine this by analyzing the outcomes of different campaigns and how they performed in relation to their **launch dates** and their **funding goals** using a dataset from various Kickstarter campaigns.
 [Kickstarter_Challenge.xlsx](Kickstarter_Challenge.xlsx)
 
 ## 2. Analysis and Challenges
